@@ -2,7 +2,7 @@ import torch
 import numpy as np
 import os
 from PIL import Image
-from ultralytics import YOLO
+# from ultralytics import YOLO
 
 class SegmentationAgent:
     def __init__(self, model_path="C:/Users/hp/Desktop/wound_analysis/backend/weight/yolo26s-seg.pt"):
@@ -16,7 +16,7 @@ class SegmentationAgent:
         self.model = None
         try:
             if os.path.exists(self.model_path):
-                self.model = YOLO(self.model_path)
+                # self.model = YOLO(self.model_path)
                 print(f"--- YOLO Model loaded from {self.model_path} ---")
             else:
                 print(f"--- WARNING: Model not found at {self.model_path} ---")

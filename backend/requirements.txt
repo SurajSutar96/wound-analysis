@@ -1,16 +1,16 @@
 fastapi
 uvicorn
 groq
-torch
-torchvision
+# torch
+# torchvision
 pydantic
 python-multipart
 reportlab
 numpy
-opencv-python-headless
-pillow
+# opencv-python-headless
+# pillow
 python-dotenv
 langgraph
 langchain-groq
-ultralytics
-opencv-python
+# ultralytics
+# opencv-python
