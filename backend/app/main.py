@@ -7,7 +7,7 @@ import os
 import base64
 from app.groq_client import GroqService
 from app.agents.workflow import app_workflow
-from app.elevenlabs_service import eleven_service
+# from app.elevenlabs_service import eleven_service
 from app.doctors_store import init_db, register_doctor, authenticate_doctor, set_reset_token, update_doctor_profile
 from app.mail_service import mail_service
 
