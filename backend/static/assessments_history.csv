@@ -1,0 +1,20 @@
+"timestamp","patient_id","patient_name","doctor_id","length_cm","width_cm","depth_cm","area_cm2","volume_cm3","diagnosis","image_url"
+"2026-02-21 17:30:57","PX-11A142","Vaishnavi Ratnaparkhe ","DR-A7F937","14.9","11.6","1.6","108.9","122.0","### CLINICAL FINDINGS & CLASSIFICATION:
+The patient presents with a diabetic foot ulcer, classified as a Wagner Grade 2 wound, characterized by a full-thickness lesion with exposed tendon or tendon sheath, but without bone or joint involvement. The wound measures 14.9 cm in length, 11.6 cm in width, and 1.6 cm in depth, with an area of 108.9 cm² and a volume of 122.0 cm³. Clinical presentation includes signs of chronic wound healing with possible infection risk.
+
+### TISSUE COMPOSITION:
+- Granulation tissue: 60%
+- Slough: 20%
+- Necrosis: 10%
+- Epithelization: 10%
+
+### EXUDATE & INFECTION RISK:
+The wound exhibits a Moderate exudate level, with a serous character, and no clear signs of purulent discharge. Infection indicators are moderate, with a mild odour present. The surrounding skin is erythematous and warm to the touch, suggesting possible infection.
+
+### MD RECOMMENDED CARE PLAN:
+1. Debridement approach: Sharp debridement to remove necrotic tissue and promote granulation.
+2. Dressing type and frequency: Foam dressing, changed every 3 days, to manage exudate and promote a moist environment.
+3. Offloading / pressure relief: Total contact casting to offload pressure and promote wound healing.
+4. Antibiotic / antimicrobial therapy: Consider broad-spectrum antibiotics, given the moderate infection risk, with coverage for Staphylococcus aureus and Streptococcus species.
+5. Vascular referral if indicated: Given the size and depth of the wound, a vascular referral is indicated to assess and manage any possible peripheral artery disease.
+6. Next review: 7 days, with consideration for reassessment of wound progress, and adjustment of the care plan as necessary.","/static/uploads/CCB65ED1-D758-4221-B549-B3856E9076DA.jpg"

@@ -1,0 +1,9 @@
+backend/venv
+frontend
+backend/static/reports
+backend/static/audio
+backend/static/uploads  
+backend/app/__pycache__
+backend/weight/yolo26s-seg.pt
+.env
+backend/.env
